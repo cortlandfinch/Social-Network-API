@@ -1,0 +1,26 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "## User Story AS A social media startup I WANT an API for my social network that uses a NoSQL database SO THAT my website can handle large amounts of unstructured data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortlandfinch/Social-Network-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cortlandfinch/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/cortlandfinch/Social-Network-API#readme"
+}
